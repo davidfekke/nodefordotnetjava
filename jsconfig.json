@@ -3,6 +3,7 @@
 		"target": "ES6"
 	},
 	"files": [
-		"ryan.js"
+		"ryan.js",
+		"webserver.js"
 	]
 }
