@@ -4,6 +4,7 @@
 	},
 	"files": [
 		"ryan.js",
-		"webserver.js"
+		"webserver.js",
+		"events.js"
 	]
 }
